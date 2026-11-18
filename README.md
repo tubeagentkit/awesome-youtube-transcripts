@@ -51,6 +51,7 @@ Entries are open source unless they are in [Hosted APIs](#hosted-apis). Star cou
 
 Use these when you need transcripts from servers that YouTube blocks, or don't want to run proxies. All are commercial services; check each site for current pricing and limits.
 
+- [CodePulse YouTube Transcript API](https://apify.com/codepulsehq/youtube-transcript-api) - Apify Actor with a REST API and MCP tool for transcripts of videos, playlists and channels. Output as text, timestamps, chunks for RAG, Markdown, SRT and VTT.
 - [GetYouTubeTranscript](https://getyoutubetranscript.com) - REST API and remote MCP server for transcripts, YouTube search, channels and playlists. Python and Node SDKs.
 - [SearchAPI](https://www.searchapi.io/docs/youtube-transcripts) - YouTube transcripts endpoint inside a general search API.
 - [Supadata](https://supadata.ai) - Transcripts and metadata for YouTube, TikTok, Instagram, X, Facebook and web pages.
